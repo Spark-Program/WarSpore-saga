@@ -1,0 +1,3 @@
+[submodule "svg-renderer"]
+	path = svg-renderer
+	url = https://github.com/spore-war/svg-renderer
